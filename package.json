@@ -1,13 +1,12 @@
 {
   "name": "hapi-auth-signature-2",
   "description": "Signature authentication plugin that wraps https://github.com/joyent/node-http-signature",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Anthony Bouch <tony@58bits.com> (http://www.58bits.com)",
-  "repository":
-    {
-      "type": "git"
-      ,"url": "git://github.com/58bits/hapi-auth-signature"
-    },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/58bits/hapi-auth-signature"
+  },
   "main": "index",
   "keywords": [
     "hapi",
