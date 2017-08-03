@@ -1,7 +1,7 @@
 {
   "name": "@florencehealthcare/hapi-auth-signature-2",
   "description": "Signature authentication plugin that wraps https://github.com/joyent/node-http-signature",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Anthony Bouch <tony@58bits.com> (http://www.58bits.com)",
   "repository": {
     "type": "git",
