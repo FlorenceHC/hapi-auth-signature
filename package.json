@@ -20,7 +20,7 @@
   "dependencies": {
     "boom": "2.x.x",
     "hoek": "2.x.x",
-    "http-signature": "0.11.*"
+    "http-signature": "^1.2.0"
   },
   "peerDependencies": {
     "hapi": ">=8.x.x"
